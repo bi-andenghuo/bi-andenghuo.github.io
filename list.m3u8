@@ -8,7 +8,7 @@ http://223.110.241.149:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
 http://223.110.241.149:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
 
 #EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV4
-http://223.110.241.149:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
+http://111.13.111.242:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
 
 #EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV5
 http://223.110.241.149:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
